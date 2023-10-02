@@ -1,0 +1,11 @@
+.todo-item {
+    cursor: pointer;
+}
+
+.todo-title {
+    margin-right: 15px;
+}
+
+.todo-item-completed .todo-title {
+    text-decoration: line-through;
+}
