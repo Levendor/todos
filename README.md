@@ -1,3 +1,3 @@
 # todos
 
-https://levendor.github.io/react-game/todos
+https://levendor.github.io/todos/
